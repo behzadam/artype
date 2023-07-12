@@ -1,0 +1,13 @@
+{
+  "name": "artype",
+  "version": "0.0.0",
+  "description": "This repository is dedicated to my TypeScript type challenges",
+  "scripts": {},
+  "keywords": [
+    "typescript",
+    "type-challenge",
+    ""
+  ],
+  "author": "Behzad Ali Mohammad Zad",
+  "license": "MIT"
+}
