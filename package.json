@@ -9,5 +9,8 @@
     ""
   ],
   "author": "Behzad Ali Mohammad Zad",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
 }
