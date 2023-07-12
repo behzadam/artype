@@ -4,6 +4,9 @@ devDependencies:
   '@type-challenges/utils':
     specifier: ^0.1.1
     version: registry.npmjs.org/@type-challenges/utils@0.1.1
+  typescript:
+    specifier: ^5.1.6
+    version: registry.npmjs.org/typescript@5.1.6
 
 packages:
 
@@ -11,4 +14,12 @@ packages:
     resolution: {integrity: sha512-A7ljYfBM+FLw+NDyuYvGBJiCEV9c0lPWEAdzfOAkb3JFqfLl0Iv/WhWMMARHiRKlmmiD1g8gz/507yVvHdQUYA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/@type-challenges/utils/-/utils-0.1.1.tgz}
     name: '@type-challenges/utils'
     version: 0.1.1
+    dev: true
+
+  registry.npmjs.org/typescript@5.1.6:
+    resolution: {integrity: sha512-zaWCozRZ6DLEWAWFrVDz1H6FVXzUSfTy5FUMWsQlU8Ym5JP9eO4xkTIROFCQvhQf61z6O/G6ugw3SgAnvvm+HA==, registry: https://registry.yarnpkg.com/, tarball: https://registry.npmjs.org/typescript/-/typescript-5.1.6.tgz}
+    name: typescript
+    version: 5.1.6
+    engines: {node: '>=14.17'}
+    hasBin: true
     dev: true

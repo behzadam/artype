@@ -11,6 +11,7 @@
   "author": "Behzad Ali Mohammad Zad",
   "license": "MIT",
   "devDependencies": {
-    "@type-challenges/utils": "^0.1.1"
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^5.1.6"
   }
 }
